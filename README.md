@@ -4,6 +4,7 @@ Originally designed for Bootstrap Material, this has been modified to work with 
 
 - Double click to select date or time
 - Swipe left to go to next month or Swipe right to go to previous month.
+- It has the changes needed for MP
 
 
 
@@ -48,7 +49,7 @@ bower install angular-material-datetimepicker
 ```
 
 
-## Live Example
+## Live Examples 
 
 Click [here](http://logbon72.github.io/angular-material-datetimepicker) to see live examples.
 
